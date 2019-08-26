@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">wechatCounter</string>
+    <string name="save">保存</string>
+</resources>
